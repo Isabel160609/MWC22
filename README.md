@@ -54,7 +54,9 @@ Los objetivos son:
         
   ## Contact info
   
- [Linkedin Isabel Domenech](https://www.linkedin.com/in/isabel-domenech-de-mena-157103124/)
+  [Linkedin Isabel Domenech](https://www.linkedin.com/in/isabel-domenech-de-mena-157103124/)
   
-  
+  ## License 
+
+  [MIT](https://opensource.org/licenses/MIT)
   
