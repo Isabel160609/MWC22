@@ -4,7 +4,7 @@ Este es un proyecto para participar en la fase clasificatoria del  Hacketon del 
 
 ## Background
 
-El objetivo será crear una CLI que permita a los y las developers acceder a la información del MWC y de otros developers y profesionales tech que vayan atender.
+El objetivo será crear una app CLI que permita a l@s developers acceder a la información del MWC y del resto de developers y profesionales tech que vayan a asistir al evento.
 
 Los objetivos son:
 
