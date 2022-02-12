@@ -20,7 +20,7 @@ Los objetivos son:
 
 ## Installation
 
-###Los requisitos para poner en marcha este proyecto son:
+### Los requisitos para poner en marcha este proyecto son:
 
   - Tener JavaSE-16  En el caso de no tenerlo instalado podemos instalarlo pulsando el siguiente link: [JavaSE-16](https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html)
 
@@ -44,7 +44,7 @@ Los objetivos son:
       )
       ~~~~
 
-    ###Puesta en marcha
+  ### Puesta en marcha
     
     Si Java está en el path, puedes navegar hasta el directorio donde exportaste el fichero en una consola y escribir:
 
