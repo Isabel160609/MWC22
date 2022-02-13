@@ -16,6 +16,16 @@ Los objetivos son:
 
 ✅ Task 4 → Generar un comando de CLI que haga display de la lista de developers
 
+     Se ha implementado el display de la lista completa asi como 3 filtros más por si se quiere filtrar por categoria,fecha y nombre.
+
+       ✅Lista completa de developers
+        
+       ✅Lista filtrada por la categoria que se desee
+        
+       ✅Lista filtrada por la fecha que se desee
+        
+       ✅Lista filtrada por el nombre que se desee
+
 ✅ Task 5 → Generar un comando de CLI que permita añadir un nuevo developer y actualice la base de datos
 
 ## Installation
@@ -46,7 +56,13 @@ Los objetivos son:
 
   ### Puesta en marcha
   
-    Poner en marcha la base de datos MySql donde previamente hemod creado la BBDD mwc.
+    Poner en marcha la base de datos MySql donde previamente hemos creado la BBDD mwc con los siguientes valores.
+    
+        ~~~
+         usuario = "root";
+
+         contraseña = "";
+        ~~~
     
     Si Java está en el path, puedes navegar hasta el directorio donde exportaste el fichero en una consola y escribir:
 
