@@ -14,7 +14,7 @@ Los objetivos son:
 
 ✅ Task 3 → Generar un comando de CLI para que haga display de la información del MWC (Días que estará disponible)
 
-✅ Task 4 → Generar un comando de CLI que haga display de la lista de developers
+✅ Task 4 → Generar un comando de CLI que haga display de la lista de developers.
 
      Se ha implementado el display de la lista completa asi como 3 filtros más por si se quiere filtrar por categoria,fecha y nombre.
 
@@ -39,7 +39,7 @@ Los objetivos son:
   - Tener instalado MySql En el caso de no tenerlo instalado podemos instalarlo pulsando el siguiente link: [MySql](https://dev.mysql.com/). Y como en cualquier otra instalación siguiente>siguiente… Seleccionamos la configuración por defecto y escribimos un user y una contraseña (opcional).
 
   - Crear la Base de Datos para conectarse. Esto lo hacemos pegando este codigo en MySql
-      ~~~
+      ```
       create database mwc;
       use mwc;
 
@@ -52,24 +52,32 @@ Los objetivos son:
         `phone` varchar(255),
         PRIMARY KEY (`id`)
       )
-      ~~~~
+      ```
 
-  ### Puesta en marcha
+ ### Puesta en marcha
   
     Poner en marcha la base de datos MySql donde previamente hemos creado la BBDD mwc con los siguientes valores.
     
-        ~~~
+      
          usuario = "root";
 
          contraseña = "";
-        ~~~
+       
     
-    Si Java está en el path, puedes navegar hasta el directorio donde exportaste el fichero en una consola y escribir:
+      Si Java está en el path, puedes navegar hasta el directorio donde exportaste el fichero en una consola y escribir:
 
-        ~~~
-        java -jar MWC22.jar
-        ~~~
         
+        java -jar MWC22.jar
+      
+        
+  ## Roadmap and visuals
+  
+     Se han añadido 2 archivos json 
+     
+     data.jason con toda lainformacion del json del enlace que se hafacilitado
+     
+     test.json un json en el que estan los minimos registros que debe tener la base de datos para realizar el testing
+     
   ## Contact info
   
   [Linkedin Isabel Domenech](https://www.linkedin.com/in/isabel-domenech-de-mena-157103124/)
