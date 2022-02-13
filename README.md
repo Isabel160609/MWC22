@@ -45,12 +45,14 @@ Los objetivos son:
       ~~~~
 
   ### Puesta en marcha
+  
+    Poner en marcha la base de datos MySql donde previamente hemod creado la BBDD mwc.
     
     Si Java está en el path, puedes navegar hasta el directorio donde exportaste el fichero en una consola y escribir:
 
-        ```
+        ~~~
         java -jar MWC22.jar
-        ```
+        ~~~
         
   ## Contact info
   
